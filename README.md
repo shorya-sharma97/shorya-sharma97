@@ -14,8 +14,10 @@ I'm a Computer Science student at **SRM Institute of Science and Technology**, c
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+
+
+### 🔗 Social links
+[![Email](https://img.shields.io/badge/shoryeps4@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shoryeps4@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shorya-sharma97/) [![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shorya_sharma97)
+
+
 <br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shorya-sharma97/)
-
-shoryeps4@gmail.com
