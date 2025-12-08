@@ -1,10 +1,10 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Shorya Sharma! 👋
 
-I'm a Computer Science student at **[Your University Name]**, currently mastering the fundamentals of programming.
+I'm a Computer Science student at **SRM Institute of Science and Technology**, currently mastering the fundamentals of programming.
 
-- 🔭 I’m currently working on **[Your Project Name, e.g., A Website for Hostels]**.
-- 🌱 I’m currently learning **C** and **Python** through **CS50**.
-- 🏎️ I have a strong interest in **[Your Interest, e.g., JDM Cars & Magazines]**.
+- 🔭 I’m currently working on **small projects to boost my skills**.
+- 🌱 I’m currently learning **C** and **Python** through **Harvard's CS50** and **my university**.
+- 🏎️ I have a strong interest in **LLMs, web dev, machine learning**.
 - ⚡ Fun fact: I'm also exploring video editing!
 
 ### 🛠️ Languages and Tools
@@ -16,4 +16,6 @@ I'm a Computer Science student at **[Your University Name]**, currently masterin
 
 <br/>
 
-[Your Social Link or Email]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shorya-sharma97/)
+
+shoryeps4@gmail.com
